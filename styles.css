@@ -1,0 +1,9 @@
+body {
+    background-color: rgb(102, 3, 3);
+    color: white;
+    font-size: 34px;
+    font-family: 'Franklin Gothic Medium';
+    font-weight: bolder;
+    text-align: center;
+    margin-top: 4px;
+}
